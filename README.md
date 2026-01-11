@@ -145,7 +145,6 @@ Real-time Spotify integration
 
 Lightweight, scalable architecture
 
-Recruiter-ready ML + NLP project
 
 🔮 Future Enhancements
 
